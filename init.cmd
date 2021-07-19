@@ -1,0 +1,1 @@
+npx nodemon src/app.js && $env:NODE_ENV='development' || set NODE_ENV=development
